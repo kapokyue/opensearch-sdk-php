@@ -1,6 +1,8 @@
 OpenSearch Data Access & Management SDK for PHP
 ================================================
 
+From https://help.aliyun.com/document_detail/53078.html
+
 Opensearch restful API version v3
 
 Overview
